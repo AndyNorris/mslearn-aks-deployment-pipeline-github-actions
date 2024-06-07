@@ -3,4 +3,4 @@ image:
   name: contoso-website
   tag: latest
 dns:
-  name:  41b22ecb7a9a4daca37d.eastus.aksapp.ioS  
+  name:  41b22ecb7a9a4daca37d.eastus.aksapp.io
